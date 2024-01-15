@@ -1,0 +1,15 @@
+DIO_PROGRAM.o DIO_PROGRAM.o: ../DIO_PROGRAM.c ../LSTD_TYPES.h \
+  ../LBIT_MATH.h ../DIO_INTERFACE.h ../DIO_REG.h ../DIO_CONFIG.h \
+  ../DIO_PRIVATE.h
+
+../LSTD_TYPES.h:
+
+../LBIT_MATH.h:
+
+../DIO_INTERFACE.h:
+
+../DIO_REG.h:
+
+../DIO_CONFIG.h:
+
+../DIO_PRIVATE.h:
